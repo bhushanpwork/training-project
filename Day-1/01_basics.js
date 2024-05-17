@@ -10,3 +10,5 @@ function setName() {
     console.log("testing method");
 }
 setName();
+M1();
+showDetails();
