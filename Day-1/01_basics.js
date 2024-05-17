@@ -12,3 +12,7 @@ function setName() {
 setName();
 M1();
 showDetails();
+
+function modelTesting(){
+    console.log("Model testing");
+}
