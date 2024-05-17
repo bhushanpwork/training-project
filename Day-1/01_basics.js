@@ -9,3 +9,4 @@ function M1() {
 function setName() {
     console.log("testing method");
 }
+setName();
